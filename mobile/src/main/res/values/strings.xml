@@ -1,4 +1,25 @@
 <resources>
     <string name="app_name">RMetarWear</string>
     <string name="action_settings">Settings</string>
+    <string name="mainAirport">Followed airports :</string>
+    <string name="title_activity_main">RMetar</string>
+    <string name="frag_main_Metar">M</string>
+    <string name="frag_main_TAF">T</string>
+    <string name="title_activity_airport_detail">Airport</string>
+
+    <string name="contentAirport_Lat">Lat :</string>
+    <string name="contentAirport_Lon">Lon :</string>
+    <string name="contentAirport_Elev">Elevation :</string>
+
+    <string name="contentAirport_UpdateDelay">Update every </string>
+    <string name="contentAirport_Delete">Remove airport</string>
+
+    <string name="hour">hour</string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="title_activity_add_airport">AddAirportActivity</string>
+
+    <string name="addAirport_OACI">OACI code</string>
+
+
 </resources>
